@@ -23,8 +23,6 @@ go build main.go router.go serverRunner.go
 
 视频流推送、点赞视频（包括取消点赞）
 
-**开发中：**
-
 关注操作、关注列表、粉丝列表、好友列表、评论、评论列表
 
 ## Test
